@@ -30,7 +30,7 @@ You can visit our [official website](https://miclab.gist.ac.kr) for more informa
 
 | Name | Email |
 |------|-------|
-|Kim Jiyun | |
+|[Kim Jiyun](https://github.com/orgs/KAIST-MIC-Lab/people/Jixyuxn) | jiyun6606@gm.gist.ac.kr |
 
 ### Undergraduate Students
 
