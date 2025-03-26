@@ -1,9 +1,9 @@
-# Mobility Intelligence & Control Laboratory
+# GIST MIC Lab
 
-This GitHub Organization belongs to the Mobility Intelligence & Control Laboratory (MICLab) at Gwangju Insitute of Science and Technology (GIST). 
+This GitHub Organization belongs to the **Mobility Intelligence & Control Laboratory** (MIC Lab) at **Gwangju Insitute of Science and Technology** (GIST). 
 The MICLab is a research group led by Prof. Kyunghwan Choi. 
 
-You can visit our [official website](https://miclab.gist.ac.kr) for more information.
+You can visit our [official website](https://mic.gist.ac.kr/mic/) for more information.
 
 ## Research Areas
 
