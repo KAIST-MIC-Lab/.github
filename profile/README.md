@@ -1,12 +1,37 @@
-## Hi there 👋
+# Mobility Intelligence & Control Laboratory
 
-<!--
+This GitHub Organization belongs to the Mobility Intelligence & Control Laboratory (MICLab) at Gwangju Insitute of Science and Technology (GIST). 
+The MICLab is a research group led by Prof. Kyunghwan Choi. 
 
-**Here are some ideas to get you started:**
+You can visit our [official website](https://miclab.gist.ac.kr) for more information.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Research Areas
+
+## Members
+
+### Professor
+
+| Name | Email |
+|------|-------|
+| Choi Kyunghwan | |
+
+### Ph.D Students
+
+| Name | Email |
+|------|-------|
+|[Ryu Myeongseok](https://github.com/DDingR) | dding_98@gm.gist.ac.kr |
+|Jang Seunghun  | |
+|Lee Hyochan    | |
+|Hong Donghwa   | |
+|Seo Minseok    | |
+
+
+### Master Students
+
+| Name | Email |
+|------|-------|
+|Kim Jiyun | |
+
+### Undergraduate Students
+
+
