@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2025-05-06 10:22:19 UTC+9
+**Last Updated**: 2025-05-07 10:23:04 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,17 +42,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Ryu Myeongseok</td>
-        <td>25-05-05</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
+        <td>Seo Minseok</td>
+        <td>25-04-23</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control or Synchronous Machine Drives.</td>
+        <td colspan="7"></td>
     </tr>                           
 <!--  -->
     <tr>
@@ -70,31 +70,31 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
-        <td>Ryu Myeongseok</td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE">DOB-FLE</a></td>
+        <td>Jang Seunghun</td>
         <td>25-04-23</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE/blob/main/manuscript.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
+        <td colspan="7">Integration error-based DOB-FLE.</td>
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
-        <td>Seo Minseok</td>
-        <td>25-04-23</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
+        <td>Ryu Myeongseok</td>
+        <td>25-05-05</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7"></td>
+        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control or Synchronous Machine Drives.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -126,17 +126,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE">DOB-FLE</a></td>
-        <td>Jang Seunghun</td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
+        <td>Ryu Myeongseok</td>
         <td>25-04-23</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/DOB-FLE/blob/main/manuscript.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Integration error-based DOB-FLE.</td>
+        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
     </tr>                           
 </table>
 
@@ -213,7 +213,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS">Hyundai-RWS</a></td>
         <td>Ryu Myeongseok</td>
-        <td>25-04-30</td>
+        <td>25-05-06</td>
         <td><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS/blob/main/./doc/main.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
@@ -333,7 +333,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Ryu Myeongseok</td>
-        <td>25-05-05</td>
+        <td>25-05-06</td>
         <td>public</td>
     </tr>
     <tr>
@@ -343,7 +343,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/KAIST-MIC-Lab.github.io">KAIST-MIC-Lab.github.io</a></td>
         <td>Ryu Myeongseok</td>
-        <td>25-05-05</td>
+        <td>25-05-06</td>
         <td>public</td>
     </tr>
     <tr>
@@ -363,7 +363,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Ryu Myeongseok</td>
-        <td>25-05-05</td>
+        <td>25-05-06</td>
         <td>private</td>
     </tr>
     <tr>
