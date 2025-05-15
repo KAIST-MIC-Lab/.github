@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2025-05-15 16:54:33 UTC+9
+**Last Updated**: 2025-05-15 17:00:04 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -40,6 +40,62 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <th colspan="7">Description</th>
     </tr>
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
+        <td>Seo Minseok</td>
+        <td>25-04-23</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7"></td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
+        <td>Ryu Myeongseok</td>
+        <td>25-04-23</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-15</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
+        <td>Ryu Myeongseok</td>
+        <td>25-05-05</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control or Synchronous Machine Drives.</td>
+    </tr>                           
 <!--  -->
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC">CONAC</a></td>
@@ -67,62 +123,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Ryu Myeongseok</td>
-        <td>25-05-05</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control or Synchronous Machine Drives.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
-        <td>Ryu Myeongseok</td>
-        <td>25-04-23</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
-        <td>Seo Minseok</td>
-        <td>25-04-23</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7"></td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-07</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
     </tr>                           
 </table>
 
