@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2025-05-24 10:20:53 UTC+9
+**Last Updated**: 2025-05-25 10:38:45 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,6 +42,34 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td>submitted to IECON 2025</td>
+        <td>GIST-IREF, NRF-OnlineRL</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
+        <td>Minseok Seo</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
+        <td>NRF-OnlineDL</td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7"></td>
+    </tr>                           
+<!--  -->
+    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
         <td>Myeongseok Ryu</td>
         <td>25-05-18</td>
@@ -53,20 +81,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -84,20 +98,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
-        <td>submitted to IECON 2025</td>
-        <td>GIST-IREF, NRF-OnlineRL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -112,17 +112,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL">ConstrainedRL</a></td>
-        <td>Minseok Seo</td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
+        <td>Myeongseok Ryu</td>
         <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ConstrainedRL/blob/main/">here</a></td>
-        <td>NRF-OnlineDL</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
+        <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7"></td>
+        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
     </tr>                           
 </table>
 
@@ -148,20 +148,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE">ESO-FLE</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE/blob/main/manuscript.pdf">here</a></td>
-        <td>published ISIE 2024</td>
-        <td>ETRI-PBV</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Extended State Observer-based Flux Linkage Estimator</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -173,6 +159,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Integration Error Estimation-based FLE.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE">ESO-FLE</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE/blob/main/manuscript.pdf">here</a></td>
+        <td>published ISIE 2024</td>
+        <td>ETRI-PBV</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Extended State Observer-based Flux Linkage Estimator</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -333,7 +333,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>25-05-23</td>
+        <td>25-05-24</td>
         <td>public</td>
     </tr>
     <tr>
@@ -343,7 +343,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/KAIST-MIC-Lab.github.io">KAIST-MIC-Lab.github.io</a></td>
         <td>Myeongseok Ryu</td>
-        <td>25-05-23</td>
+        <td>25-05-24</td>
         <td>public</td>
     </tr>
     <tr>
@@ -363,7 +363,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>25-05-23</td>
+        <td>25-05-24</td>
         <td>private</td>
     </tr>
     <tr>
