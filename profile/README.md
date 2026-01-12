@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-01-11 10:48:45 UTC+9
+**Last Updated**: 2026-01-12 10:45:23 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,34 +42,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-07-13</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
-        <td>accepted to IECON 2025</td>
-        <td>GIST-IREF, NRF-OnlineRL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-06-19</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
-        <td>submitted to IECON 2025</td>
-        <td>NRF-OnlineDL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
         <td>Myeongseok Ryu</td>
         <td>25-12-06</td>
@@ -81,6 +53,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-07-13</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td>accepted to IECON 2025</td>
+        <td>GIST-IREF, NRF-OnlineRL</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -109,6 +95,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-06-19</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
+        <td>submitted to IECON 2025</td>
+        <td>NRF-OnlineDL</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
     </tr>                           
 </table>
 
@@ -199,7 +199,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS">Hyundai-RWS</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-09</td>
+        <td>26-01-11</td>
         <td><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS/blob/main/./doc/main.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
@@ -273,10 +273,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
+        <td>Minseok Seo</td>
+        <td>25-07-14</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -299,10 +299,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
-        <td>Minseok Seo</td>
-        <td>25-07-14</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -332,7 +332,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-10</td>
+        <td>26-01-11</td>
         <td>public</td>
     </tr>
     <tr>
@@ -362,7 +362,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-10</td>
+        <td>26-01-11</td>
         <td>private</td>
     </tr>
     <tr>
