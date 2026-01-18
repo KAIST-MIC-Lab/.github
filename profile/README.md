@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-01-17 10:27:58 UTC+9
+**Last Updated**: 2026-01-18 10:47:42 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -56,17 +56,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-05-26</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-06-19</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
+        <td>submitted to IECON 2025</td>
+        <td>NRF-OnlineDL</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
+        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -84,17 +84,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-06-19</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
-        <td>submitted to IECON 2025</td>
-        <td>NRF-OnlineDL</td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-05-26</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
+        <td>-</td>
+        <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
+        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -273,6 +273,19 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
+        <td>Minseok Seo</td>
+        <td>25-07-14</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td>-</td>
+        <td>-</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="6">Master Thesis</td>
+    </tr>                           
+<!--  -->
+    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -290,19 +303,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
         <td>Myeongseok Ryu</td>
         <td>25-05-18</td>
         <td><a href="https://github.com/KAIST-MIC-Lab/Myeongseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="6">Master Thesis</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
-        <td>Minseok Seo</td>
-        <td>25-07-14</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -332,7 +332,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-16</td>
+        <td>26-01-17</td>
         <td>public</td>
     </tr>
     <tr>
@@ -362,7 +362,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-16</td>
+        <td>26-01-17</td>
         <td>private</td>
     </tr>
     <tr>
@@ -481,11 +481,11 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/SFIT-DST">SFIT-DST</a></td>
         <td>-</td>
-        <td>26-01-08</td>
+        <td>26-01-17</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="3">본 프로젝트는 합성전장 환경의 초실감 통합전투훈련 플랫폼(SFIT) 프로그램 중, 제1세부과제인 **초실감 보병 전투 기술 훈련 기술(SFIT-DST)**에 포함된 Active 매니퓰레이터 모션제어(AMMS) 소프트웨어 형상항목(CSCI) 개발 건입니다.</td>
+        <td colspan="3">초실감 보병 전투 기술 훈련 기술(SFIT-DST)</td>
     </tr>                           
 </table>
 
