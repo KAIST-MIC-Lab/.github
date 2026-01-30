@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-01-29 10:56:04 UTC+9
+**Last Updated**: 2026-01-30 10:56:08 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,45 +42,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-06-19</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
-        <td>submitted to IECON 2025</td>
-        <td>NRF-OnlineDL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC">CONAC</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
         <td>Myeongseok Ryu</td>
-        <td>25-08-07</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/manuscript.pdf">here</a></td>
-        <td>in preparation for Trans. Cyb., accepted ECC 2025</td>
+        <td>25-12-06</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
         <td></td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-05-26</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
-        <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
+        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -98,17 +70,45 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC">CONAC</a></td>
         <td>Myeongseok Ryu</td>
-        <td>25-12-06</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
+        <td>25-08-07</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/manuscript.pdf">here</a></td>
+        <td>in preparation for Trans. Cyb., accepted ECC 2025</td>
         <td></td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Online-PINN">Online-PINN</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-06-19</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Online-PINN/blob/main/manuscript.pdf">here</a></td>
+        <td>submitted to IECON 2025</td>
+        <td>NRF-OnlineDL</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-05-26</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/LBNLP/blob/main/">here</a></td>
+        <td>-</td>
         <td>-</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
+        <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
     </tr>                           
 </table>
 
@@ -134,20 +134,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-08-15</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
-        <td>declined by L4DC 2025</td>
-        <td>-</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Neuro-adaptive control with CNN</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -159,6 +145,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Integration Error Estimation-based FLE.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-08-15</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
+        <td>declined by L4DC 2025</td>
+        <td>-</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Neuro-adaptive control with CNN</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -199,7 +199,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS">Hyundai-RWS</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-28</td>
+        <td>26-01-29</td>
         <td><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS/blob/main/./doc/main.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
@@ -273,10 +273,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
-        <td>Minseok Seo</td>
-        <td>25-07-14</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -299,10 +299,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
+        <td>Minseok Seo</td>
+        <td>25-07-14</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -332,7 +332,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-28</td>
+        <td>26-01-29</td>
         <td>public</td>
     </tr>
     <tr>
@@ -362,7 +362,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-01-28</td>
+        <td>26-01-29</td>
         <td>private</td>
     </tr>
     <tr>
