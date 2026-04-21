@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-04-20 11:34:48 UTC+9
+**Last Updated**: 2026-04-21 11:30:23 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,20 +42,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-07-13</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
-        <td>accepted to IECON 2025</td>
-        <td>GIST-IREF, NRF-OnlineRL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
         <td>Myeongseok Ryu</td>
         <td>26-03-19</td>
@@ -67,6 +53,34 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC">CONAC</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>26-04-09</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/manuscript.pdf">here</a></td>
+        <td>in preparation for Trans. Cyb., accepted ECC 2025</td>
+        <td></td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-07-13</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td>accepted to IECON 2025</td>
+        <td>GIST-IREF, NRF-OnlineRL</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -96,20 +110,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td colspan="7">Lyapunov-based Nonlinear Programming.</td>
     </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC">CONAC</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>26-04-09</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC/blob/main/manuscript.pdf">here</a></td>
-        <td>in preparation for Trans. Cyb., accepted ECC 2025</td>
-        <td></td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Constrained Optimization-based Neuro-Adaptive Control.</td>
-    </tr>                           
 </table>
 
 ### Closed Publications
@@ -132,20 +132,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <th colspan="7">Description</th>
     </tr>
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-08-15</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
-        <td>declined by L4DC 2025</td>
-        <td>-</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Neuro-adaptive control with CNN</td>
-    </tr>                           
 <!--  -->
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
@@ -173,6 +159,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Extended State Observer-based Flux Linkage Estimator</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-08-15</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
+        <td>declined by L4DC 2025</td>
+        <td>-</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Neuro-adaptive control with CNN</td>
     </tr>                           
 </table>
 </div>
@@ -332,7 +332,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-04-19</td>
+        <td>26-04-20</td>
         <td>public</td>
     </tr>
     <tr>
@@ -362,7 +362,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-04-19</td>
+        <td>26-04-20</td>
         <td>private</td>
     </tr>
     <tr>
