@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-05-10 11:49:40 UTC+9
+**Last Updated**: 2026-05-11 11:58:17 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -42,20 +42,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-07-13</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
-        <td>accepted to IECON 2025</td>
-        <td>GIST-IREF, NRF-OnlineRL</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/LBNLP">LBNLP</a></td>
         <td>Myeongseok Ryu</td>
         <td>25-05-26</td>
@@ -70,17 +56,17 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM">CONAC-on-SM</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-03-19</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
-        <td></td>
-        <td>-</td>
+        <td>25-07-13</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CONAC-on-SM/blob/main/manuscript.pdf">here</a></td>
+        <td>accepted to IECON 2025</td>
+        <td>GIST-IREF, NRF-OnlineRL</td>
         <td>private</td>
     </tr>
     <tr>
-        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
+        <td colspan="7">CONAC or Synchronous Machine Drives.</td>
     </tr>                           
 <!--  -->
     <tr>
@@ -109,6 +95,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Physics-Informed Online Learnig of Flux Linkage Model for SM.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control">Deep-Neuro-Control</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>26-03-19</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main//doc/main.pdf">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Deep-Neuro-Control/blob/main/manuscript.pdf">here</a></td>
+        <td></td>
+        <td>-</td>
+        <td>private</td>
+    </tr>
+    <tr>
+        <td colspan="7">Research Project with Prof. Sesun You, Keimyung University.</td>
     </tr>                           
 </table>
 
@@ -273,10 +273,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Myeongseok-Master-s-Thesis">Myeongseok-Master-s-Thesis</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Myeongseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
+        <td>Minseok Seo</td>
+        <td>25-07-14</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -299,10 +299,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
-        <td>Minseok Seo</td>
-        <td>25-07-14</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Myeongseok-Master-s-Thesis">Myeongseok-Master-s-Thesis</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Myeongseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -332,7 +332,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-05-09</td>
+        <td>26-05-10</td>
         <td>public</td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/KAIST-MIC-Lab.github.io">KAIST-MIC-Lab.github.io</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-04-14</td>
+        <td>26-05-10</td>
         <td>public</td>
     </tr>
     <tr>
@@ -362,7 +362,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-05-09</td>
+        <td>26-05-10</td>
         <td>private</td>
     </tr>
     <tr>
