@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-08-01 11:37:56 UTC+9
+**Last Updated**: 2026-08-02 11:36:42 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -92,20 +92,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/manuscript.pdf">here</a></td>
-        <td>accepted to CDC 2023</td>
-        <td>ETRI-PBV</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Integration Error Estimation-based FLE.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/ESO-FLE">ESO-FLE</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -117,6 +103,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Extended State Observer-based Flux Linkage Estimator</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/manuscript.pdf">here</a></td>
+        <td>accepted to CDC 2023</td>
+        <td>ETRI-PBV</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Integration Error Estimation-based FLE.</td>
     </tr>                           
 </table>
 </div>
@@ -263,7 +263,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-07-31</td>
+        <td>26-08-01</td>
         <td>public</td>
     </tr>
     <tr>
@@ -293,7 +293,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-07-31</td>
+        <td>26-08-01</td>
         <td>private</td>
     </tr>
     <tr>
@@ -390,39 +390,9 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/model_identification">model_identification</a></td>
-        <td>-</td>
-        <td>25-12-07</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="3">No description</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/intern-naol-nn-control">intern-naol-nn-control</a></td>
         <td>-</td>
         <td>25-08-08</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="3">No description</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/SFIT-DST">SFIT-DST</a></td>
-        <td>-</td>
-        <td>26-03-27</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="3">초실감 보병 전투 기술 훈련 기술(SFIT-DST)</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Donghwa-Master-s-Thesis">Donghwa-Master-s-Thesis</a></td>
-        <td>-</td>
-        <td>26-01-23</td>
         <td>private</td>
     </tr>
     <tr>
