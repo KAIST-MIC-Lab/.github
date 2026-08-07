@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-08-06 11:24:57 UTC+9
+**Last Updated**: 2026-08-07 11:34:11 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -139,19 +139,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <th colspan="6">Description</th>
     </tr>
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS">Hyundai-RWS</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>26-07-25</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Hyundai-RWS/blob/main/./doc/main.pdf">here</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="6">현대자동차 RWS과제</td>
-    </tr>                           
 </table>
 
 ### Closed Projects
@@ -263,7 +250,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-08-05</td>
+        <td>26-08-06</td>
         <td>public</td>
     </tr>
     <tr>
@@ -293,7 +280,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-08-05</td>
+        <td>26-08-06</td>
         <td>private</td>
     </tr>
     <tr>
@@ -313,26 +300,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <th colspan="3">Description</th>
     </tr>
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/template">template</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>26-07-22</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="3">Latex Template.</td>
-    </tr>                           
-<!--  -->
-    <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Research-Template">Research-Template</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-08-07</td>
-        <td>private</td>
-    </tr>
-    <tr>
-        <td colspan="3">Research Template.</td>
-    </tr>                           
 </table>
 
 ### Uncategorized
