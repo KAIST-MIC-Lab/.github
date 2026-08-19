@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-08-18 10:06:03 UTC+9
+**Last Updated**: 2026-08-19 10:07:02 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -92,20 +92,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
-        <td>Myeongseok Ryu</td>
-        <td>25-08-15</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
-        <td>declined by L4DC 2025</td>
-        <td>-</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Neuro-adaptive control with CNN</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
         <td>Seunghun Jang</td>
         <td>25-05-18</td>
@@ -117,6 +103,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Integration Error Estimation-based FLE.</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
+        <td>Myeongseok Ryu</td>
+        <td>25-08-15</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control/blob/main/L4DC25%201st%20sub.pdf">here</a></td>
+        <td>declined by L4DC 2025</td>
+        <td>-</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Neuro-adaptive control with CNN</td>
     </tr>                           
 </table>
 </div>
@@ -250,7 +250,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-08-17</td>
+        <td>26-08-18</td>
         <td>public</td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/KAIST-MIC-Lab.github.io">KAIST-MIC-Lab.github.io</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-08-17</td>
+        <td>26-08-18</td>
         <td>public</td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-08-17</td>
+        <td>26-08-18</td>
         <td>private</td>
     </tr>
     <tr>
