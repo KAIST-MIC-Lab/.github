@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-09-05 12:00:06 UTC+9
+**Last Updated**: 2026-09-06 11:59:37 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -92,20 +92,6 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/">here</a></td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/manuscript.pdf">here</a></td>
-        <td>accepted to CDC 2023</td>
-        <td>ETRI-PBV</td>
-        <td>public</td>
-    </tr>
-    <tr>
-        <td colspan="7">Integration Error Estimation-based FLE.</td>
-    </tr>                           
-<!--  -->
-    <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/CNN-based-Adaptive-Control">CNN-based-Adaptive-Control</a></td>
         <td>Myeongseok Ryu</td>
         <td>25-08-15</td>
@@ -117,6 +103,20 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
     <tr>
         <td colspan="7">Neuro-adaptive control with CNN</td>
+    </tr>                           
+<!--  -->
+    <tr>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE">Integration-Error-Estimation-Based-FLE</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/">here</a></td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Integration-Error-Estimation-Based-FLE/blob/main/manuscript.pdf">here</a></td>
+        <td>accepted to CDC 2023</td>
+        <td>ETRI-PBV</td>
+        <td>public</td>
+    </tr>
+    <tr>
+        <td colspan="7">Integration Error Estimation-based FLE.</td>
     </tr>                           
 </table>
 </div>
@@ -204,10 +204,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
-        <td>Seunghun Jang</td>
-        <td>25-05-18</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
+        <td>Minseok Seo</td>
+        <td>25-07-14</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -217,10 +217,10 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     </tr>                           
 <!--  -->
     <tr>
-        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis">Minseok-Master-s-Thesis</a></td>
-        <td>Minseok Seo</td>
-        <td>25-07-14</td>
-        <td><a href="https://github.com/KAIST-MIC-Lab/Minseok-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
+        <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis">Seunghun-Master-s-Thesis</a></td>
+        <td>Seunghun Jang</td>
+        <td>25-05-18</td>
+        <td><a href="https://github.com/KAIST-MIC-Lab/Seunghun-Master-s-Thesis/blob/main/Dissertation.pdf">here</a></td>
         <td>-</td>
         <td>-</td>
         <td>public</td>
@@ -250,7 +250,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-09-04</td>
+        <td>26-09-05</td>
         <td>public</td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-09-04</td>
+        <td>26-09-05</td>
         <td>private</td>
     </tr>
     <tr>
