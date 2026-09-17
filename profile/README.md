@@ -17,7 +17,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
 
 # Organization Repositories 
 
-**Last Updated**: 2026-09-16 12:23:42 UTC+9
+**Last Updated**: 2026-09-17 12:29:18 UTC+9
 > [!Note]
 > Automatically Updated at Every Midnight UTC+0
 > (see, [here](https://github.com/KAIST-MIC-Lab/.github-private/actions/workflows/auto_readme_gen.yml)).
@@ -250,7 +250,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github">.github</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-09-15</td>
+        <td>26-09-16</td>
         <td>public</td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ Maintained by Ph.D. Student [Myeongseok Ryu](https://github.com/DDingR); contact
     <tr>
         <td rowspan="2"><a href="https://github.com/KAIST-MIC-Lab/.github-private">.github-private</a></td>
         <td>Myeongseok Ryu</td>
-        <td>26-09-15</td>
+        <td>26-09-16</td>
         <td>private</td>
     </tr>
     <tr>
